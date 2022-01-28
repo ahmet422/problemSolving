@@ -1,4 +1,4 @@
-package tests;
+package com.ahmet;
 
 import java.util.Arrays;
 
